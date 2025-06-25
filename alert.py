@@ -79,6 +79,3 @@ cv2.destroyAllWindows()
 
 
 
-
-#BOT_TOKEN = "7687509396:AAEeTTwtleCld7lY9TGCzmTrcQkDGnjntdM"  # replace with yours
-#CHAT_ID = "1846471425"  # replace with manager's chat ID
