@@ -20,7 +20,7 @@ SMTP_PORT = 587
 
 SENDER_EMAIL = "yadav27prince12@gmail.com"
 RECEIVER_EMAIL = "anishkumar.gupta@adityabirla.com"
-SENDER_PASSWORD = "woamsstkhytmrnme"  # Secure prompt
+SENDER_PASSWORD = ""  # Secure prompt
 
 # --- Initialize YOLO Model ---
 model = YOLO(MODEL_PATH)

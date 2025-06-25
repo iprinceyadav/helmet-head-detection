@@ -7,8 +7,8 @@ import requests
 model = YOLO("best.pt")
 
 # Telegram credentials
-BOT_TOKEN = "7687509396:AAEeTTwtleCld7lY9TGCzmTrcQkDGnjntdM"         # replace with your bot token
-CHAT_ID = "1846471425"             # replace with your manager's chat ID
+BOT_TOKEN = ""         # replace with your bot token
+CHAT_ID = ""             # replace with your manager's chat ID
 
 # Webcam setup
 cap = cv2.VideoCapture(0)

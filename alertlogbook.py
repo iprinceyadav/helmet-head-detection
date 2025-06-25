@@ -15,7 +15,7 @@ NOTIFICATION_INTERVAL = 15                       # Minimum seconds between email
 
 # Email configuration
 SENDER_EMAIL = "yadav27prince@gmail.com"            # Replace with your sender email
-SENDER_PASSWORD = "woamsstkhytmrnme"            # Use app password (not your email password)
+SENDER_PASSWORD = ""            # Use app password (not your email password)
 RECEIVER_EMAIL = "231b231@juetguna.in"     # Replace with manager's email
 
 # --- INITIALIZE ---

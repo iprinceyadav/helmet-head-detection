@@ -18,7 +18,7 @@ SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 SENDER_EMAIL = "yadav27prince12@gmail.com"
 RECEIVER_EMAIL = "231b231@juetguna.in"
-SENDER_PASSWORD = "woamsstkhytmrnme"  # Use an App Password for Gmail
+SENDER_PASSWORD = ""  # Use an App Password for Gmail
 
 # --- Initialize YOLO Model ---
 model = YOLO(MODEL_PATH)
